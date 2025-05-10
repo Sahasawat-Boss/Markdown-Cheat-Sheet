@@ -27,24 +27,24 @@
 
 ### JavaScript
 
-\`\`\`js
+```js
 const greet = (name) => `Hello, ${name}`;
-\`\`\`
+```
 
 ### C# Razor
 
-\`\`\`csharp
+```csharp
 @foreach (var item in Model.Children()) {
     <p>@item.Name</p>
 }
-\`\`\`
+```
 
 ### Bash
 
-\`\`\`bash
+```bash
 npm install
 dotnet run
-\`\`\`
+```
 
 ---
 
